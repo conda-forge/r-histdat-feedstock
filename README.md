@@ -1,11 +1,11 @@
-About r-histdat
-===============
+About r-histdat-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-histdat-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=HistDat
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-histdat-feedstock/blob/main/LICENSE.txt)
 
 Summary: Summary Statistics for Histogram/Count Data
 
